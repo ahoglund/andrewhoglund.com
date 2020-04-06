@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+require 'date'
+
+title = ARGV[0]
+raise "pass the title as an arguments to the script, as a quoted string" unless title
+
+date = DateTime.now
+
+formatted_date = "%d-%02d-%02d" % [date.year, date.month, date.day]
+slugged_title = title.split(" ").map(&:downcase).join("-")
+
+File.open(File.join("_posts", "#{formatted_date}-#{slugged_title}.md"), "w") do |f|
+  f.write(<<~FILE)
+---
+layout: post
+title: #{title}
+categories: []
+---
+
+<h3>{{ page.title }}</h3>
+  FILE
+end
