@@ -22,11 +22,6 @@ layout: default
           </a>
         </h3>
 
-        {%- if post.image -%}
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            <img src="{{ post.image }}" width="400" />
-          </a>
-        {%- endif -%}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

@@ -1,19 +1,19 @@
 ---
 layout: page
 title: About
+headshot: /assets/images/headshot-512.png
 permalink: /about/
 ---
 
-![headshot](/assets/images/headshot4-128.png)
+![headshot]({{ page.headshot }})
 
 Musician, Developer.
 
-I am a follower of Jesus Christ
+Follower of **Jesus Christ**.
 
-I make music and I write code.
+Father of 4 and Husband of 1.
 
-I am a father and a husband.
+Building API's at [GitHub](https://developer.github.com/).
 
-I build API's at [GitHub](https://developer.github.com/).
+Making sounds with horns for [MSXII Audio](https://www.msxaudio.com/).
 
-I make sounds with horns for [MSXII Audio](https://www.msxaudio.com/).
