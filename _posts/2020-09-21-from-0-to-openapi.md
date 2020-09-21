@@ -1,6 +1,6 @@
 ---
 layout: post
-title: from-0-to-openapi
+title: From 0 to OpenAPI
 categories: [code]
 published: true
 ---
