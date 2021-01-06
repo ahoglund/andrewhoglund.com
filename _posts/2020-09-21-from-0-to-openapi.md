@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From 0 to OpenAPI
-categories: [code]
+categories: [code, talks]
 published: true
 ---
 
