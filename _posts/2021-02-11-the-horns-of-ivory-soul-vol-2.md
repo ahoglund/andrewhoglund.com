@@ -1,8 +1,8 @@
 ---
 layout: post
-[title](title): The Horns of Ivory Soul Vol. 2
+titletitle: The Horns of Ivory Soul Vol. 2
 image: /assets/images/horns-of-ivory-soul-vol-2.jpg
-[categories](categories): [music]
+categories: [music]
 ---
 
 <h3>{{ page.title }}</h3>
