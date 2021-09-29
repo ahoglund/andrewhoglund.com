@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrating GitHub's Global IDs
-categories: []
+categories: [talks]
 ---
 
 <h3>{{ page.title }}</h3>
