@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Muted Horns 2
-image: https://pbs.twimg.com/media/EhZgCMFWsAMV9vD?format=jpg&name=small
+[image](image): https://pbs.twimg.com/media/EhZgCMFWsAMV9vD?format=jpg&name=small
 categories: [music]
 ---
 
