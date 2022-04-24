@@ -2,7 +2,7 @@
 layout: post
 title: Jazz Forte v.1
 image: https://cdn.shopify.com/s/files/1/0345/7209/products/JazzForteVol.1artwork_1024x1024.jpg?v=1645212407
-categories: [[music](music)]
+categories: [music]
 ---
 
 <h3>{{ page.title }}</h3>
