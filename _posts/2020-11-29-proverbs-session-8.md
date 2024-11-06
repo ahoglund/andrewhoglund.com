@@ -2,7 +2,7 @@
 layout: post
 title: proverbs session 8
 published: false
-categories: [bible, teaching]
+categories: [writing]
 ---
 
 ## Living a Life Pleasing to God

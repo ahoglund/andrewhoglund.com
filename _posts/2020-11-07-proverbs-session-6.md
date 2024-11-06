@@ -1,8 +1,7 @@
 ---
 layout: post
 title: proverbs session 6
-published: false
-categories: [bible, teaching]
+categories: [writing]
 ---
 
 <h3>{{ page.title }}</h3>

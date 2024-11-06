@@ -2,7 +2,7 @@
 layout: post
 title: Proverbs session 7
 published: false
-categories: [bible]
+categories: [writing]
 ---
 
 <h3>{{ page.title }}</h3>
